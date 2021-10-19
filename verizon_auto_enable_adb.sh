@@ -1,6 +1,6 @@
 #! /bin/bash
 # Author: Jonathan Scott aka Jonathan Villarreal
-# Date: October 19th, 2019
+# Date: October 19th, 2021 - Date of public release correction
 #
 # Description:
 # Find the available modem CU ports on macOS.
